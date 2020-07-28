@@ -10628,3 +10628,36 @@ footer a:hover {
 .about small {
     color: #0057A6;
 }
+
+.free_consultation,
+.free_reception {
+    position: fixed;
+    right: 50px;
+    bottom: 140px;
+    width: 77px;
+    height: 77px;
+    background: #7dba00;
+    border: 2px solid #fff;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.free_consultation:hover,
+  .free_reception:hover {
+    cursor: pointer;
+}
+
+.free_reception {
+    right: 50px;
+    bottom: 50px;
+}
