@@ -9952,31 +9952,37 @@ nav li:hover > .submenu {
 @font-face {
     font-family: "Geometriabold";
   src: url("../fonts/Geometria-Bold.otf");
+  font-display: swap;
 }
 
 @font-face {
     font-family: "Geometriamedium";
   src: url("../fonts/Geometria-Medium.otf");
+  font-display: swap;
 }
 
 @font-face {
     font-family: "Geometriamlight";
   src: url("../fonts/Geometria-Light.otf");
+  font-display: swap;
 }
 
 @font-face {
     font-family: "Geometria";
   src: url("../fonts/Geometria.otf");
+  font-display: swap;
 }
 
 @font-face {
     font-family: "Geometriaheavy";
   src: url("../fonts/Geometria-Heavy.otf");
+  font-display: swap;
 }
 
 @font-face {
     font-family: "opensanse";
   src: url("../fonts/open.ttf");
+  font-display: swap;
 }
 
 body {
